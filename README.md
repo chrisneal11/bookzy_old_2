@@ -4,11 +4,12 @@ The Pied Piper S/W Development Company, Bookzy Website
 Project1 Requirements:
 
 You must use the following:
-•	Java: To create the website (done)
-•	Git: As a version control system for the program (done)
-•	Jenkins: To create the build pipeline (done)
-•	Spring boot: To create the Maven app (done)
-•	Maven: To compile the program (done)
+•	Java: To create the website
+
+•	Git: As a version control system for the program
+•	Jenkins: To create the build pipeline
+•	Spring boot: To create the Maven app
+•	Maven: To compile the program
 •	Tomcat: To host the website
 •	AWS EC2: To run Tomcat
 •	JUnit: To run tests and publish results
